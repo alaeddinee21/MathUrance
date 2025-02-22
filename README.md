@@ -10,7 +10,7 @@ The final model was deployed in **Streamlit**, allowing users to visualize and p
 ## 📊 **Project Architecture & Workflow**  
 Below is the high-level architecture and methodology we followed:
 
-![Project Workflow](./assets/workflow_diagram.png)  
+![Project Workflow](workFlow Archetecture.png)  
 *(Replace with the correct image path once uploaded)*  
 
 ### **1️⃣ Data Preprocessing**  
